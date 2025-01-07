@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quiz Langages
 
 Une application Flutter éducative pour tester vos connaissances sur différents langages de programmation. Les utilisateurs peuvent répondre à des questions à choix multiples et voir leur score à la fin du quiz.  
@@ -22,3 +23,7 @@ Une application Flutter éducative pour tester vos connaissances sur différents
 1. Clonez ce repository :  
    ```bash
    git clone https://github.com/ton-utilisateur/quiz_langages.git
+=======
+# QuizLangages
+Une application Flutter simple permettant de répondre à des questions "sur les langages programmation" à choix multiples. L'application affiche un score final basé sur les réponses correctes
+>>>>>>> 3977404ef01704187448119e384295fbb0ac1deb
