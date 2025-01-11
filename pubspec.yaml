@@ -30,6 +30,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  sqflite: ^2.0.0+3 #SQLite
+  path_provider: ^2.0.0 # Pour trouver le répertoire de la base de données
+
 
 
   # The following adds the Cupertino Icons font to your application.
